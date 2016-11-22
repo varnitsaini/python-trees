@@ -7,3 +7,7 @@ This repo consist of programs related to tree based data structure written in py
 * Search in Binary Search Tree
 * Search in Binary Tree
 * Tree Traversal
+    * Level Order Traversal (Breadth First Traversal)
+    * Pre Order Traversal
+    * In Order Traversal
+    * Post Order Traversal
