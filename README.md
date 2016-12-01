@@ -11,3 +11,10 @@ This repo consist of programs related to tree based data structure written in py
     * Pre Order Traversal
     * In Order Traversal
     * Post Order Traversal
+* Max Heaps
+* Min Heaps
+* Heaps Operations
+    * Find Max
+    * Delete Max
+    * Insert
+    * Increase
