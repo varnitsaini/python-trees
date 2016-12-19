@@ -1,6 +1,6 @@
 """
 Illustrating the Max Heap Operations
-Same can be achieved for min heaps just minf changes are required for the
+Same can be achieved for min heaps just min changes are required for the
 Following are the operations which will be covered in this illustration
 
 Find Max
@@ -73,6 +73,7 @@ arr = [5, 1, 9, 2, 6, 8, 0, 7]
 
 buildMaxHeap(arr)
 
+print arr
 """Find max will be the first element of max heap"""
 print "Max element is : %d" % arr[0]
 

@@ -18,3 +18,6 @@ This repo consist of programs related to tree based data structure written in py
     * Delete Max
     * Insert
     * Increase
+* Lowest Common Ancestor in Binary Search Tree
+* Height Of Binary Tree
+* Check If A Binary Tree Is Balanced
